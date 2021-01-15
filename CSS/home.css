@@ -49,6 +49,11 @@ input::placeholder {
 .input-container .form-label {
   color: #3e5eab !important;
 }
+/* card styling  */
+
+.card {
+  border: none !important;
+}
 
 /* login and signup styling */
 .login-container,
@@ -98,9 +103,6 @@ input::placeholder {
   width: 300px;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-.donor-home-container .donor-body-container .card {
-  border: none !important;
 }
 
 .donor-home-container .donor-body-container .card:hover {
