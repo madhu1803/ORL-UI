@@ -50,10 +50,6 @@ input::placeholder {
   color: #3e5eab !important;
 }
 
-.body-container .card {
-  border: none !important;
-}
-
 /* login and signup styling */
 .login-container,
 .login-container .row,
@@ -94,4 +90,10 @@ input::placeholder {
   .login-container .login-right-container .main-container .field-container {
     margin-top: 100px;
   }
+}
+
+/* home page - donor */
+
+.body-container .card {
+  border: none !important;
 }
