@@ -102,3 +102,13 @@ input::placeholder {
 .donor-home-container .donor-body-container .card {
   border: none !important;
 }
+
+.donor-home-container .donor-body-container .card:hover {
+  border: 4px solid lightgray !important;
+}
+
+/* orphanage profile - receiver */
+.orphanage-profile-container .orphanage-body-container .jumbotron {
+  background-color: #171a29;
+  color: white;
+}
