@@ -93,7 +93,12 @@ input::placeholder {
 }
 
 /* home page - donor */
-
-.body-container .card {
+.donor-home-container .nav-link.dropdown-toggle.location {
+  white-space: nowrap;
+  width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.donor-home-container .donor-body-container .card {
   border: none !important;
 }
